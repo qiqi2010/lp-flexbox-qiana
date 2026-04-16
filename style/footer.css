@@ -1,0 +1,24 @@
+footer {
+    background-color: rgb(189, 216, 239);
+}
+
+.footer-ul-lists {
+    list-style: none;
+    display: flex;
+
+    li {
+
+        margin: 10px;
+        padding: 10px;
+        border-radius: 10px;
+        text-decoration: none;
+        color: rgb(26, 48, 84);
+
+
+
+        &:hover {
+            background-color: #7e9bc5;
+
+        }
+    }
+}

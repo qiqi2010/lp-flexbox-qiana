@@ -1,0 +1,29 @@
+header{
+    background-color: rgb(189, 216, 239);
+}
+.header-ul-lists{
+    list-style: none;
+    display: flex;
+
+    li{
+   
+    margin: 10px;
+    padding: 10px; 
+    border-radius: 10px;
+    
+
+    &:hover{
+        background-color: #304463;
+  ;
+
+    }
+}
+
+a{
+  text-decoration: none;
+    color: rgb(195, 215, 255);
+}
+ }
+ header{
+    background-color: #213656;
+ }
